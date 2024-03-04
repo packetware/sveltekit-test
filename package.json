@@ -1,7 +1,7 @@
 {
 	"name": "sveltekit-blank",
 	"version": "0.0.1",
-	"main": "app.js",
+	"main": "build",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
