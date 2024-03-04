@@ -4,7 +4,7 @@
 	"main": "build",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "npm install $$ vite build",
+		"build": "npm install && vite build",
 		"preview": "vite preview --host",
 		"start": "node build",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
