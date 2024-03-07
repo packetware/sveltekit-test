@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Ann's new<br />SvelteKit app
+		Dylan's new<br />SvelteKit app
 	</h1>
 
 	<h2>
