@@ -1,5 +1,5 @@
 import adapterAuto from '@sveltejs/adapter-auto';
-//import adapterNode from '@sveltejs/adapter-node';
+import adapterNode from '@sveltejs/adapter-node';
 
 export function useAdapter(environment) {
 	switch (environment) {
