@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Dylan's new<br />SvelteKit app
+		Gema's new<br />SvelteKit app
 	</h1>
 
 	<h2>
