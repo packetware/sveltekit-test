@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Gema's new<br />SvelteKit app
+		Demo's new<br />SvelteKit app
 	</h1>
 
 	<h2>
